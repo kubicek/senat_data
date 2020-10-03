@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<channel>
+<title xml:lang="cs-CZ">Senat.cz - hlasování: MUDr. Petr  Skála</title>
+<description xml:lang="cs-CZ">Oficiální RSS zdroj Senátu PČR, který zveřejňuje hlasování jednotlivých senátorek a senátorů</description>
+<link>https://www.senat.cz/senatori/</link>
+<atom:link href="https://www.senat.cz/senatori/hlasovani_rss.php?pid=191" rel="self" type="application/rss+xml" />
+<language>cs-CZ</language>
+<webMaster>webmaster@senat.cz (Webmaster KS)</webMaster>
+<managingEditor>brejchaj@senat.cz (Jan Brejcha)</managingEditor>
+<pubDate>Sat, 03 Oct 2020 00:33:44 GMT</pubDate>
+<ttl>360</ttl>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549999</guid>
+<title xml:lang="cs-CZ">6 - 2 - 26 - Návrh usnesení Senátu k rozhodnutí libyjského soudu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">26 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 20 Dec 2006 15:36:06 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549998</guid>
+<title xml:lang="cs-CZ">6 - 2 - 25 - Návrh usnesení Senátu k popírání holokaustu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">25 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 20 Dec 2006 15:26:47 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549997</guid>
+<title xml:lang="cs-CZ">6 - 2 - 24 - Návrh na vyslovení souhlasu Senátu se zřízením podvýborů výborů Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">24 - zřizuje - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 20 Dec 2006 15:09:45 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549996</guid>
+<title xml:lang="cs-CZ">6 - 2 - 23 - Návrh senátního návrhu ústavního zákona senátorů Jiřího Pospíšila, Jaroslava Kubery, Přemysla Sobotky, Daniely Filipiové, Milana Balabána a dalších, kterým se mění ústavní zákon č. 1/1993 Sb., Ústava České republiky, ve znění pozdějších ústavních zákonů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">23 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 20 Dec 2006 15:01:37 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549995</guid>
+<title xml:lang="cs-CZ">6 - 2 - 22 - Informace vlády ČR o výsledcích jednání Evropské rady konaného ve dnech 14. až 15. prosince 2006 v Bruselu a o pozicích ČR</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">22 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 20 Dec 2006 14:57:48 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549994</guid>
+<title xml:lang="cs-CZ">6 - 2 - 21 - Informace vlády ČR o výsledcích jednání Evropské rady konaného ve dnech 14. až 15. prosince 2006 v Bruselu a o pozicích ČR</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">21 - procedurální návrh - zdržel se; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Wed, 20 Dec 2006 14:45:23 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549993</guid>
+<title xml:lang="cs-CZ">6 - 2 - 20 - Informace vlády ČR o výsledcích jednání Evropské rady konaného ve dnech 14. až 15. prosince 2006 v Bruselu a o pozicích ČR</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">20 - určení zpravodaje - zdržel se; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 20 Dec 2006 14:39:58 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549992</guid>
+<title xml:lang="cs-CZ">6 - 2 - 19 - 2. schůze Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">19 - změna pořadu - zdržel se; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 20 Dec 2006 14:38:34 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549991</guid>
+<title xml:lang="cs-CZ">6 - 2 - 18 - Návrh senátního návrhu zákona senátora Josefa Novotného a dalších senátorů, kterým se mění zákon č. 202/1990 Sb., o loteriích a jiných podobných hrách, ve znění pozdějších předpisů, a zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">18 - doprovodné usnesení - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 20 Dec 2006 14:22:01 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549990</guid>
+<title xml:lang="cs-CZ">6 - 2 - 17 - Návrh senátního návrhu zákona senátora Josefa Novotného a dalších senátorů, kterým se mění zákon č. 202/1990 Sb., o loteriích a jiných podobných hrách, ve znění pozdějších předpisů, a zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">17 - zamítnout - proti; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 20 Dec 2006 14:20:33 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549989</guid>
+<title xml:lang="cs-CZ">6 - 2 - 16 - Návrh senátního návrhu zákona senátora Josefa Novotného a dalších senátorů, kterým se mění zákon č. 202/1990 Sb., o loteriích a jiných podobných hrách, ve znění pozdějších předpisů, a zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">16 - zamítnout - zdržel se; Senát odhlasoval: Zmatečné hlasování</description>
+<pubDate>Wed, 20 Dec 2006 14:19:59 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549988</guid>
+<title xml:lang="cs-CZ">6 - 2 - 15 - Návrh zákona, kterým se mění zákon č. 108/2006 Sb., o sociálních službách, zákon č. 135/2006 Sb., kterým se mění některé zákony v oblasti ochrany před domácím násilím, zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, a zákon č. 100/1988 Sb., o sociálním zabezpečení, ve znění pozdějších předpisů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">15 - pověřuje - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 20 Dec 2006 13:06:21 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549987</guid>
+<title xml:lang="cs-CZ">6 - 2 - 14 - Návrh zákona, kterým se mění zákon č. 108/2006 Sb., o sociálních službách, zákon č. 135/2006 Sb., kterým se mění některé zákony v oblasti ochrany před domácím násilím, zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, a zákon č. 100/1988 Sb., o sociálním zabezpečení, ve znění pozdějších předpisů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">14 - vrátit PS - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 20 Dec 2006 13:04:55 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549986</guid>
+<title xml:lang="cs-CZ">6 - 2 - 13 - Návrh zákona, kterým se mění zákon č. 108/2006 Sb., o sociálních službách, zákon č. 135/2006 Sb., kterým se mění některé zákony v oblasti ochrany před domácím násilím, zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, a zákon č. 100/1988 Sb., o sociálním zabezpečení, ve znění pozdějších předpisů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">13 - 1.pozměňovací návrh - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 20 Dec 2006 13:03:57 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549985</guid>
+<title xml:lang="cs-CZ">6 - 2 - 12 - Návrh zákona, kterým se mění zákon č. 108/2006 Sb., o sociálních službách, zákon č. 135/2006 Sb., kterým se mění některé zákony v oblasti ochrany před domácím násilím, zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, a zákon č. 100/1988 Sb., o sociálním zabezpečení, ve znění pozdějších předpisů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">12 - schválit - pro; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Wed, 20 Dec 2006 12:58:43 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549984</guid>
+<title xml:lang="cs-CZ">6 - 2 - 11 - Návrh zákona o státním dluhopisovém programu na úhradu jistin státního dluhu, splatných v letech 2007 a 2008</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">11 - nezabývat se - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 20 Dec 2006 11:03:32 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549983</guid>
+<title xml:lang="cs-CZ">6 - 2 - 10 - Návrh zákona, kterým se upravují některé užívací vztahy k majetku České republiky</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">10 - nezabývat se - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 20 Dec 2006 10:55:55 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549982</guid>
+<title xml:lang="cs-CZ">6 - 2 - 9 - Návrh nařízení Evropského parlamentu a Rady, kterým se zřizuje Evropský technologický institut</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">9 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 20 Dec 2006 10:47:11 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549981</guid>
+<title xml:lang="cs-CZ">6 - 2 - 8 - Návrh nařízení Evropského parlamentu a Rady, kterým se zřizuje Evropský technologický institut</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">8 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 20 Dec 2006 10:46:25 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549980</guid>
+<title xml:lang="cs-CZ">6 - 2 - 7 - Návrh nařízení Evropského parlamentu a Rady, kterým se zřizuje Evropský technologický institut</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">7 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 20 Dec 2006 10:45:05 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549979</guid>
+<title xml:lang="cs-CZ">6 - 2 - 6 - 2. schůze Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">6 - změna pořadu - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 20 Dec 2006 10:08:59 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549978</guid>
+<title xml:lang="cs-CZ">6 - 2 - 5 - Návrh zákona, kterým se mění zákon č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění pozdějších předpisů a zákon č. 111/1998 Sb., o vysokých školách, ve znění pozdějších předpisů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">5 - nezabývat se - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 20 Dec 2006 10:06:16 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549977</guid>
+<title xml:lang="cs-CZ">6 - 2 - 4 - Návrh zákona, kterým se mění zákon č. 107/1999 Sb., o jednacím řádu Senátu, ve znění pozdějších předpisů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">4 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 20 Dec 2006 09:55:29 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549976</guid>
+<title xml:lang="cs-CZ">6 - 2 - 3 - Návrh nařízení Evropského parlamentu a Rady o roamingu ve veřejných mobilních sítích v rámci Společenství a o změně směrnice 2002/21/ES o společném předpisovém rámci pro sítě a služby elektronických komunikací - ministr vnitra a informatiky Ivan Langer - senátní tisk č. N 87/05</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">3 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 20 Dec 2006 09:48:31 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549975</guid>
+<title xml:lang="cs-CZ">6 - 2 - 2 - 2. schůze Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">2 - změna pořadu - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 20 Dec 2006 09:10:09 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549974</guid>
+<title xml:lang="cs-CZ">6 - 2 - 1 - 2. schůze Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">1 - určení ověřovatelů - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 20 Dec 2006 09:06:26 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549973</guid>
+<title xml:lang="cs-CZ">6 - 1 - 49 - Návrh na vyslovení souhlasu se zřízením Podvýboru pro předškolní, základní a střední vzdělání Výboru pro vzdělávání, vědu, kulturu, lidská práva a petice</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">49 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Thu, 30 Nov 2006 14:56:35 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549972</guid>
+<title xml:lang="cs-CZ">6 - 1 - 48 - Informace vlády o pořadu jednání Evropské rady konaného ve dnech 14. a 15. prosince 2006 v Bruselu a o pozicích České republiky</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">48 - vzít na vědomí - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Thu, 30 Nov 2006 14:52:49 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549971</guid>
+<title xml:lang="cs-CZ">6 - 1 - 47 - Informace vlády o pořadu jednání Evropské rady konaného ve dnech 14. a 15. prosince 2006 v Bruselu a o pozicích České republiky</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">47 - určení zpravodaje - zdržel se; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Thu, 30 Nov 2006 14:21:55 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549970</guid>
+<title xml:lang="cs-CZ">6 - 1 - 46 - 1. schůze Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">46 - změna pořadu - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Thu, 30 Nov 2006 14:07:53 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549969</guid>
+<title xml:lang="cs-CZ">6 - 1 - 45 - Vládní návrh, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu s ratifikací Mezinárodní úmluva proti dopingu ve sportu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">45 - dát souhlas k ratifikaci - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Thu, 30 Nov 2006 14:06:11 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549968</guid>
+<title xml:lang="cs-CZ">6 - 1 - 44 - Návrh zákona, kterým se mění zákon č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů, a další související zákony</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">44 - schválit - proti; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Thu, 30 Nov 2006 13:39:11 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549967</guid>
+<title xml:lang="cs-CZ">6 - 1 - 43 - Návrh zákona, kterým se mění zákon č. 589/1992 Sb., o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti, ve znění pozdějších předpisů, zákon č. 117/1995 Sb., o státní sociální podpoře, ve znění pozdějších předpisů, zákon č. 111/2006 Sb., o pomoci v hmotné nouzi, ve znění zákona č. 165/2006 Sb., zákon č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění pozdějších předpisů, a zákon č. 189/2006 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o nemocenském pojištění</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">43 - pověřuje - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Thu, 30 Nov 2006 11:57:45 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549966</guid>
+<title xml:lang="cs-CZ">6 - 1 - 42 - Návrh zákona, kterým se mění zákon č. 589/1992 Sb., o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti, ve znění pozdějších předpisů, zákon č. 117/1995 Sb., o státní sociální podpoře, ve znění pozdějších předpisů, zákon č. 111/2006 Sb., o pomoci v hmotné nouzi, ve znění zákona č. 165/2006 Sb., zákon č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění pozdějších předpisů, a zákon č. 189/2006 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o nemocenském pojištění</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">42 - vrátit PS - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Thu, 30 Nov 2006 11:55:43 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549965</guid>
+<title xml:lang="cs-CZ">6 - 1 - 41 - Návrh zákona, kterým se mění zákon č. 589/1992 Sb., o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti, ve znění pozdějších předpisů, zákon č. 117/1995 Sb., o státní sociální podpoře, ve znění pozdějších předpisů, zákon č. 111/2006 Sb., o pomoci v hmotné nouzi, ve znění zákona č. 165/2006 Sb., zákon č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění pozdějších předpisů, a zákon č. 189/2006 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o nemocenském pojištění</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">41 - 1.pozměňovací návrh - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Thu, 30 Nov 2006 11:54:25 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549964</guid>
+<title xml:lang="cs-CZ">6 - 1 - 40 - 1. schůze Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">40 - změna pořadu - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Thu, 30 Nov 2006 11:21:42 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549963</guid>
+<title xml:lang="cs-CZ">6 - 1 - 39 - Návrh zákona o přijetí úvěru Českou republikou od Evropské investiční banky na financování protipovodňových opatření</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">39 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Thu, 30 Nov 2006 11:20:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549962</guid>
+<title xml:lang="cs-CZ">6 - 1 - 38 - Návrh zákona, kterým se mění zákon č. 406/2000 Sb., o hospodaření energií, ve znění pozdějších předpisů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">38 - nezabývat se - zdržel se; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Thu, 30 Nov 2006 10:09:55 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549961</guid>
+<title xml:lang="cs-CZ">6 - 1 - 37 - 1. schůze Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">37 - změna pořadu - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Thu, 30 Nov 2006 10:03:06 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549960</guid>
+<title xml:lang="cs-CZ">6 - 1 - 36 - Zelená kniha o kolizním právu v oblasti úpravy majetkových poměrů v manželství, zabývající se převážně otázkou soudní příslušnosti a vzájemného uznávání - senátní tisk č. K 92/05</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">36 - schválit - zdržel se; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Thu, 30 Nov 2006 10:01:22 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549959</guid>
+<title xml:lang="cs-CZ">6 - 1 - 35 - Zelená kniha o kolizním právu v oblasti úpravy majetkových poměrů v manželství, zabývající se převážně otázkou soudní příslušnosti a vzájemného uznávání - senátní tisk č. K 92/05</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">35 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Thu, 30 Nov 2006 10:00:23 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549958</guid>
+<title xml:lang="cs-CZ">6 - 1 - 34 - Zelená kniha o kolizním právu v oblasti úpravy majetkových poměrů v manželství, zabývající se převážně otázkou soudní příslušnosti a vzájemného uznávání - senátní tisk č. K 92/05</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">34 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Thu, 30 Nov 2006 09:59:16 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549957</guid>
+<title xml:lang="cs-CZ">6 - 1 - 33 - 1. schůze Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">33 - změna pořadu - zdržel se; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Thu, 30 Nov 2006 09:29:48 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549956</guid>
+<title xml:lang="cs-CZ">6 - 1 - 32 - Návrh zákona, kterým se mění zákon č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny, ve znění pozdějších předpisů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">32 - nezabývat se - zdržel se; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Thu, 30 Nov 2006 09:28:15 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549955</guid>
+<title xml:lang="cs-CZ">6 - 1 - 31 - Vládní návrh, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu návrh na přijetí změn Úmluvy o posuzování vlivů na životní prostředí přesahujících hranice států (Espoo, 25. února 1991)</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">31 - dát souhlas k ratifikaci - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Thu, 30 Nov 2006 09:20:57 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549954</guid>
+<title xml:lang="cs-CZ">6 - 1 - 30 - Návrh Pravidel hospodaření senátorských klubů pro rok 2007</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">30 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 29 Nov 2006 15:15:56 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549953</guid>
+<title xml:lang="cs-CZ">6 - 1 - 29 - Schválení zasedacího pořádku</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">29 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 29 Nov 2006 15:12:35 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549952</guid>
+<title xml:lang="cs-CZ">6 - 1 - 28 - Volba členů stálých delegací Parlamentu České republiky v meziparlamentních organizacích za Senát</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">28 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 29 Nov 2006 15:10:19 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549951</guid>
+<title xml:lang="cs-CZ">6 - 1 - 27 - Návrh na stanovení počtu senátorů ve stálých delegacích Parlamentu České republiky v meziparlamentních organizacích</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">27 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 29 Nov 2006 15:05:29 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549950</guid>
+<title xml:lang="cs-CZ">6 - 1 - 18 - 1. schůze Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">18 - změna pořadu - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 29 Nov 2006 14:19:30 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549949</guid>
+<title xml:lang="cs-CZ">6 - 1 - 17 - Ustavení komisí Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">17 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 29 Nov 2006 14:17:48 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549948</guid>
+<title xml:lang="cs-CZ">6 - 1 - 16 - Potvrzení volby předsedů výborů Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">16 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 29 Nov 2006 14:12:53 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549947</guid>
+<title xml:lang="cs-CZ">6 - 1 - 15 - Ustavení výborů Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">15 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 29 Nov 2006 12:30:43 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549946</guid>
+<title xml:lang="cs-CZ">6 - 1 - 14 - Stanovení počtu členů výborů Senátu a komisí Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">14 - Počty členů - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 29 Nov 2006 12:21:10 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549945</guid>
+<title xml:lang="cs-CZ">6 - 1 - 13 - Zřízení výborů Senátu a komisí Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">13 - zřizuje - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 29 Nov 2006 12:17:33 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549944</guid>
+<title xml:lang="cs-CZ">6 - 1 - 12 - 1. schůze Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">12 - určení ověřovatelů - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 29 Nov 2006 12:09:52 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549943</guid>
+<title xml:lang="cs-CZ">6 - 1 - 11 - Návrh na schválení nominace ověřovatelů Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">11 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 29 Nov 2006 12:08:57 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549942</guid>
+<title xml:lang="cs-CZ">6 - 1 - 10 - Stanovení počtu ověřovatelů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">10 - stanoví - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 29 Nov 2006 12:04:59 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549941</guid>
+<title xml:lang="cs-CZ">6 - 1 - 5 - Stanovení počtu místopředsedů Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">5 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 29 Nov 2006 10:03:26 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H9549940</guid>
+<title xml:lang="cs-CZ">6 - 1 - 3 - Informace předsedy volební komise o ustavení volební komise a o volbě jejích funkcionářů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=6&#38;ID=191</link>
+<description xml:lang="cs-CZ">3 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 29 Nov 2006 08:50:24 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+</channel>
+</rss>

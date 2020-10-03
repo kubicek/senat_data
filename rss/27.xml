@@ -1,0 +1,1848 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<channel>
+<title xml:lang="cs-CZ">Senat.cz - hlasování: PhDr. Václav Benda</title>
+<description xml:lang="cs-CZ">Oficiální RSS zdroj Senátu PČR, který zveřejňuje hlasování jednotlivých senátorek a senátorů</description>
+<link>https://www.senat.cz/senatori/</link>
+<atom:link href="https://www.senat.cz/senatori/hlasovani_rss.php?pid=27" rel="self" type="application/rss+xml" />
+<language>cs-CZ</language>
+<webMaster>webmaster@senat.cz (Webmaster KS)</webMaster>
+<managingEditor>brejchaj@senat.cz (Jan Brejcha)</managingEditor>
+<pubDate>Sat, 03 Oct 2020 00:37:29 GMT</pubDate>
+<ttl>360</ttl>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349999</guid>
+<title xml:lang="cs-CZ">2 - 4 - 19 - Volba dvou náhradníků Stálé delegace Parlamentu České republiky do Shromáždění Západoevropské unie</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">19 - Karel Barták - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 28 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349998</guid>
+<title xml:lang="cs-CZ">2 - 4 - 18 - Volba dvou náhradníků Stálé delegace Parlamentu České republiky do Shromáždění Západoevropské unie</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">18 - Oldřich Dočekal - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 28 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349997</guid>
+<title xml:lang="cs-CZ">2 - 4 - 17 - Volba dvou náhradníků Stálé delegace Parlamentu České republiky do Shromáždění Západoevropské unie aklamací</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">17 - Procedurální návrh - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 28 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349996</guid>
+<title xml:lang="cs-CZ">2 - 4 - 16 - Volba člena Komise Senátu pro Ústavu České republiky</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">16 - volba člena - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 28 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349995</guid>
+<title xml:lang="cs-CZ">2 - 4 - 15 - 18 - Návrh zákona, kterým se mění zákon č. 140/1961 Sb., trestní zákon, ve znění pozdějších předpisů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">15 - schvaluje - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 28 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349994</guid>
+<title xml:lang="cs-CZ">2 - 4 - 14 - 22 - Návrh změny zákona, kterým se upravují spoluvlastnické vztahy k budovám a vlastnické vztahy k bytům a nebyt. prostorům</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">14 - schvaluje - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 28 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349993</guid>
+<title xml:lang="cs-CZ">2 - 4 - 13 - 21 - Návrh změny zákona č. 334/1992 Sb., o ochraně zemědělského půdního fondu, ve znění zákona č. 10/1993 Sb.</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">13 - schvaluje - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 28 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349992</guid>
+<title xml:lang="cs-CZ">2 - 4 - 12 - 20 - Návrh změny zákona o úpravě majetkových vztahů a vypořádání majetkových nároků v družstvech</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">12 - zamítá - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 27 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349991</guid>
+<title xml:lang="cs-CZ">2 - 4 - 11 - 20 - Návrh změny zákona o úpravě majetkových vztahů a vypořádání majetkových nároků v družstvech</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">11 - schvaluje - nepřítomen; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Tue, 27 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349990</guid>
+<title xml:lang="cs-CZ">2 - 4 - 10 - žádost vyšetřovatele o vyslovení souhlasu k trestnímu stíhání senátora Václava Bendy - návrh senátora M. Topolánka</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">10 - vyslovuje nesouhlas - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 27 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349989</guid>
+<title xml:lang="cs-CZ">2 - 4 - 9 - Zpráva Mandátového a imunitního výboru - přerušení projednávání do osobní účasti senátora V. Bendy na jednání MIV</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">9 - procedurální návrh - nepřítomen; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Tue, 27 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349988</guid>
+<title xml:lang="cs-CZ">2 - 4 - 8 - 19 - Návrh zákona o podmínkách převodu zemědělských a lesních pozemků z vlastnictví státu na jiné osoby</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">8 - schvaluje - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 27 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349987</guid>
+<title xml:lang="cs-CZ">2 - 4 - 7 - Zpráva Mandátového a imunitního výboru</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">7 - přerušuje - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 27 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349986</guid>
+<title xml:lang="cs-CZ">2 - 4 - 6 - Volba dalšího člena a dvou náhradníků Stálé delegace Parlamentu České republiky do Shromáždění Západoevropské unie</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">6 - zkrácení lhůty - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 27 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349985</guid>
+<title xml:lang="cs-CZ">2 - 4 - 5 - Změna ve složení Komise Senátu pro Ústavu České republiky</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">5 - zkrácení lhůty - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 27 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349984</guid>
+<title xml:lang="cs-CZ">2 - 4 - 4 - Vzetí na vědomí rezignace senátora J. Vyvadila na členství v Komisi Senátu pro Ústavu České republiky</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">4 - rezignace - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 27 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349983</guid>
+<title xml:lang="cs-CZ">2 - 4 - 3 - Schválení pořadu 4. schůze Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">3 - Schválení pořadu - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 27 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349982</guid>
+<title xml:lang="cs-CZ">2 - 4 - 2 - Návrh na doplnění pořadu 4. schůze Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">2 - Doplnění pořadu - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 27 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349981</guid>
+<title xml:lang="cs-CZ">2 - 4 - 1 - Určení dvou ověřovatelů 4. schůze Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">1 - Určení ověřovatelů - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 27 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349980</guid>
+<title xml:lang="cs-CZ">2 - 5 - 5 - 24 - Návrh na vyslovení souhlasu s pozemními tranzity, přistáváním voj.letadel a pobytem příslušníků cizích vojsk na území ČR</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">5 - doprovod. usnesení - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 20 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349979</guid>
+<title xml:lang="cs-CZ">2 - 5 - 4 - 24 - Návrh na vyslovení souhlasu s pozemními tranzity, přistáváním voj.letadel a pobytem příslušníků cizích vojsk na území ČR</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">4 - schválit - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 20 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349978</guid>
+<title xml:lang="cs-CZ">2 - 5 - 3 - prodloužení doby pro jednání a hlasování po 21. hodině</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">3 - procedurální návrh - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 20 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349977</guid>
+<title xml:lang="cs-CZ">2 - 5 - 2 - 5. schůze Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">2 - schválení pořadu - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 20 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349976</guid>
+<title xml:lang="cs-CZ">2 - 5 - 1 - 5. schůze Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">1 - určení ověřovatelů - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 20 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349975</guid>
+<title xml:lang="cs-CZ">2 - 3 - 10 - 23 - Vládní návrh na vyslání 6. polní nemocnice k plnění humanitárních úkolů a nevyzbrojeného dopravního letounu An-26</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">10 - Kosovo - nepřítomen; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Tue, 13 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349974</guid>
+<title xml:lang="cs-CZ">2 - 3 - 9 - 23 - Vládní návrh na vyslání 6. polní nemocnice k plnění humanitárních úkolů a nevyzbrojeného dopravního letounu An-26</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">9 - VZOB - bod III. - nepřítomen; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Tue, 13 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349973</guid>
+<title xml:lang="cs-CZ">2 - 3 - 8 - 23 - Vládní návrh na vyslání 6. polní nemocnice k plnění humanitárních úkolů a nevyzbrojeného dopravního letounu An-26</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">8 - VZOB - bod II. - nepřítomen; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Tue, 13 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349972</guid>
+<title xml:lang="cs-CZ">2 - 3 - 7 - 23 - Vládní návrh na vyslání 6. polní nemocnice k plnění humanitárních úkolů a nevyzbrojeného dopravního letounu An-26</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">7 - ÚPV - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 13 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349971</guid>
+<title xml:lang="cs-CZ">2 - 3 - 6 - 23 - Vládní návrh na vyslání 6. polní nemocnice k plnění humanitárních úkolů a nevyzbrojeného dopravního letounu An-26</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">6 - ÚPV orientační - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 13 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349970</guid>
+<title xml:lang="cs-CZ">2 - 3 - 5 - 23 - Orientační hlasování - Vládní návrh na vyslání 6. polní nemocnice a nevyzbrojeného dopravního letounu An-26</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">5 - VZOB bod I. 1, 2, 3 - nepřítomen; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Tue, 13 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349969</guid>
+<title xml:lang="cs-CZ">2 - 3 - 4 - 23 - Procedurální návrh - Vládní návrh na vyslání 6. polní nemocnice a dopravního letounu An-26</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">4 - ukončení rozpravy - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 13 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349968</guid>
+<title xml:lang="cs-CZ">2 - 3 - 3 - 23 - Vládní návrh na vyslání 6. polní nemocnice k plnění humanitárních úkolů a nevyzbrojeného dopravního letounu An-26</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">3 - Procedurální návrh - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 13 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349967</guid>
+<title xml:lang="cs-CZ">2 - 3 - 2 - 3. schůze Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">2 - Schválení pořadu - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 13 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349966</guid>
+<title xml:lang="cs-CZ">2 - 3 - 1 - 3. schůze Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">1 - Určení ověřovatelů - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 13 Apr 1999 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349965</guid>
+<title xml:lang="cs-CZ">2 - 2 - 65 - Potvrzení volby předsedy MIV</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">65 - potvrzuje - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349964</guid>
+<title xml:lang="cs-CZ">2 - 2 - 64 - 98090 - Návrh senátního návrhu zákona, kterým se mění zákon č. 236/1995 Sb., o platu a dalších náležitostech</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">64 - doprovodné usnesení - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349963</guid>
+<title xml:lang="cs-CZ">2 - 2 - 63 - 98090 - Návrh senátního návrhu zákona, kterým se mění zákon č. 236/1995 Sb., o platu a dalších náležitostech</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">63 - pověření předsedkyně - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349962</guid>
+<title xml:lang="cs-CZ">2 - 2 - 62 - 98090 - Návrh senátního návrhu zákona, kterým se mění zákon č. 236/1995 Sb., o platu a dalších náležitostech</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">62 - schválit - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349961</guid>
+<title xml:lang="cs-CZ">2 - 2 - 61 - 98090 - Návrh senátního návrhu zákona, kterým se mění zákon č. 236/1995 Sb., o platu a dalších náležitostech</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">61 - do 2. části rozpravy - nepřítomen; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349960</guid>
+<title xml:lang="cs-CZ">2 - 2 - 60 - 12 - Návrh zákona o svobodném přístupu k informacím a o změně dalších zákonů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">60 - vrátit s poz. návrhy - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349959</guid>
+<title xml:lang="cs-CZ">2 - 2 - 59 - 10 - Návrh zákona o svobodném přístupu k informacím a o změně dalších zákonů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">59 - pozměňovací návrh 7 - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349958</guid>
+<title xml:lang="cs-CZ">2 - 2 - 58 - 10 - Návrh zákona o svobodném přístupu k informacím a o změně dalších zákonů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">58 - pozměňovací návrh 6 - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349957</guid>
+<title xml:lang="cs-CZ">2 - 2 - 57 - 10 - Návrh zákona o svobodném přístupu k informacím a o změně dalších zákonů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">57 - pozm. návrh 4a/2-6 - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349956</guid>
+<title xml:lang="cs-CZ">2 - 2 - 56 - 10 - Návrh zákona o svobodném přístupu k informacím a o změně dalších zákonů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">56 - pozm. návrh 4 a /1 - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349955</guid>
+<title xml:lang="cs-CZ">2 - 2 - 55 - 10 - Návrh zákona o svobodném přístupu k informacím a o změně dalších zákonů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">55 - pozměňovací návrh 3 - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349954</guid>
+<title xml:lang="cs-CZ">2 - 2 - 54 - 10 - Návrh zákona o svobodném přístupu k informacím a o změně dalších zákonů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">54 - pozm. návrh 5b - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349953</guid>
+<title xml:lang="cs-CZ">2 - 2 - 53 - 10 - Návrh zákona o svobodném přístupu k informacím a o změně dalších zákonů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">53 - pozměňovací návrh 5a - nepřítomen; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349952</guid>
+<title xml:lang="cs-CZ">2 - 2 - 52 - 10 - Návrh zákona o svobodném přístupu k informacím a o změně dalších zákonů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">52 - pozměňovací návrh 2 - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349951</guid>
+<title xml:lang="cs-CZ">2 - 2 - 51 - 10 - Návrh zákona o svobodném přístupu k informacím a o změně dalších zákonů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">51 - poz. návrh 2 a 5a - nepřítomen; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349950</guid>
+<title xml:lang="cs-CZ">2 - 2 - 50 - 10 - Návrh zákona o svobodném přístupu k informacím a o změně dalších zákonů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">50 - pozměňovací návrh 1 - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349949</guid>
+<title xml:lang="cs-CZ">2 - 2 - 49 - 12 - Návrh zákona o svobodném přístupu k informacím a o změně dalších zákonů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">49 - zamítnout - nepřítomen; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349948</guid>
+<title xml:lang="cs-CZ">2 - 2 - 48 - 10 - Návrh zákona o svobodném přístupu k informacím a o změně dalších zákonů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">48 - schválit - nepřítomen; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349947</guid>
+<title xml:lang="cs-CZ">2 - 2 - 47 - prodloužení lhůty pro jednání do 23.00 hodin</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">47 - prodloužení - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349946</guid>
+<title xml:lang="cs-CZ">2 - 2 - 46 - 12 - Návrh zákona, kterým se mění zákon č. 202/1990 Sb., o loteriích a jiných podobných hrách</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">46 - nezabývat se - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349945</guid>
+<title xml:lang="cs-CZ">2 - 2 - 45 - 12 - Návrh zákona, kterým se mění zákon č. 202/1990 Sb., o loteriích - přerušení do 16. 3. do 13.00 hodin</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">45 - přerušit - proti; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349944</guid>
+<title xml:lang="cs-CZ">2 - 2 - 44 - 12 - Návrh zákona, kterým se mění zákon č. 202/1990 Sb., o loteriích a jiných podobných hrách</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">44 - přerušení bodu - proti; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349943</guid>
+<title xml:lang="cs-CZ">2 - 2 - 43 - 8 - Návrh zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">43 - vrátit s poz. návrhy - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349942</guid>
+<title xml:lang="cs-CZ">2 - 2 - 42 - 8 - Návrh zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">42 - pozměňovací návrh 5 - proti; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349941</guid>
+<title xml:lang="cs-CZ">2 - 2 - 41 - 8 - Návrh zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">41 - pozměňovací návrh 4 - proti; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349940</guid>
+<title xml:lang="cs-CZ">2 - 2 - 40 - 8 - Návrh zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">40 - pozměňovací návrh 3 - proti; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349939</guid>
+<title xml:lang="cs-CZ">2 - 2 - 39 - 8 - Návrh zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">39 - pozměňovací návrh 2 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349938</guid>
+<title xml:lang="cs-CZ">2 - 2 - 38 - 8 - Návrh zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">38 - pozměňovací návrh 1 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349937</guid>
+<title xml:lang="cs-CZ">2 - 2 - 37 - 98090 - Návrh zákona, kterým se mění zákon č. 54/1956 Sb., o nemocenském pojištění zaměstnanců</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">37 - nezabývat se - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349936</guid>
+<title xml:lang="cs-CZ">2 - 2 - 36 - 14 - Zpráva o peticích doručených Senátu a jeho orgánům za období od 1. 7. 1998 do 31. 12. 1998</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">36 - Bere na vědomí - zdržel se; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349935</guid>
+<title xml:lang="cs-CZ">2 - 2 - 35 - Návrh usnesení Senátu o pověření Orgánu Senátu stanovit podrobnosti k provedení zákona č. 236</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">35 - Pověřit orgán Senátu - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349934</guid>
+<title xml:lang="cs-CZ">2 - 2 - 34 - Stanovení podrobností k provedení zákona č. 236</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">34 - Prodloužit platnost - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349933</guid>
+<title xml:lang="cs-CZ">2 - 2 - 33 - Návrh usnesení Senátu o pověření Orgánu Senátu stanovit podrobnosti k provedení zákona č. 236</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">33 - pozměňovací návrh - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349932</guid>
+<title xml:lang="cs-CZ">2 - 2 - 32 - 13 - Pravidla hospodaření senátorských klubů pro rok 1999</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">32 - Pozměňovací návrh - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349931</guid>
+<title xml:lang="cs-CZ">2 - 2 - 31 - 13 - Pravidla hospodaření senátorských klubů pro rok 1999</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">31 - Pozměňovací návrh - proti; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349930</guid>
+<title xml:lang="cs-CZ">2 - 2 - 30 - 11 - Návrh zákona, kterým se mění zákon č. 189/1994 SB., o vyšších soudních úřednících</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">30 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349929</guid>
+<title xml:lang="cs-CZ">2 - 2 - 29 - procedurální návrh na změnu pořadu 2. schůze Senátu - předřazení bodu č. 20 na 16. místo</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">29 - změna pořadu - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 10 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349928</guid>
+<title xml:lang="cs-CZ">2 - 2 - 28 - Návrh na změnu ve složení orgánu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">28 - Volba člena - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349927</guid>
+<title xml:lang="cs-CZ">2 - 2 - 27 - Návrh na zařazení senátorky D. Lastovecké do výboru</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">27 - Volba člena - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349926</guid>
+<title xml:lang="cs-CZ">2 - 2 - 26 - Návrh na zařazení senátorky D. Lastovecké do výboru</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">26 - Počet členů - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349925</guid>
+<title xml:lang="cs-CZ">2 - 2 - 25 - 16 - Vládní návrh na vyslání nevyzbrojeného dopravního letounu An 26</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">25 - vyslovit souhlas - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349924</guid>
+<title xml:lang="cs-CZ">2 - 2 - 24 - 15 - Vládní návrh na vyslání 6. polní nemocnice AČR do operace JOINT GUARDIAN</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">24 - tranzit vojsk - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349923</guid>
+<title xml:lang="cs-CZ">2 - 2 - 23 - 15 - Vládní návrh na vyslání 6. polní nemocnice AČR do operace JOINT GUARDIAN</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">23 - bod 1 a 2 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349922</guid>
+<title xml:lang="cs-CZ">2 - 2 - 22 - prodloužení lhůty pro jednání do 22.00 hodin</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">22 - jednání po 19.00 hod - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349921</guid>
+<title xml:lang="cs-CZ">2 - 2 - 21 - 1 - Informace vlády ČR o sjednaných vojenských aktivitách jednotek a štábů AČR se zahraničními partnery v roce 1999</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">21 - Bere na vědomí - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349920</guid>
+<title xml:lang="cs-CZ">2 - 2 - 20 - 7 - Vídeňská úmluva o sukcesi států ve vztahu k smlouvám</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">20 - vyslovuje souhlas - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349919</guid>
+<title xml:lang="cs-CZ">2 - 2 - 19 - pověření předsedkyně Senátu informovat předsedu PS</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">19 - pověření - zdržel se; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349918</guid>
+<title xml:lang="cs-CZ">2 - 2 - 18 - 2 - Souhlas s ratifikací Evropské charty místní samosprávy</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">18 - vyslovuje souhlas - proti; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349917</guid>
+<title xml:lang="cs-CZ">2 - 2 - 17 - 2 - Souhlas s ratifikací Evropské charty místní samosprávy</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">17 - ukončit rozpravu - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349916</guid>
+<title xml:lang="cs-CZ">2 - 2 - 16 - 2 - Souhlas s ratifikací Evropské charty místní samosprávy</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">16 - přerušení - pro; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349915</guid>
+<title xml:lang="cs-CZ">2 - 2 - 15 - 2 - Souhlas s ratifikací Evropské charty místní samosprávy</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">15 - Evropská charta - zdržel se; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349914</guid>
+<title xml:lang="cs-CZ">2 - 2 - 14 - 6 - Smlouva mezi ČR a republikou Kazachstán o zamezení dvojího zdanění</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">14 - Schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349913</guid>
+<title xml:lang="cs-CZ">2 - 2 - 13 - 5 - Dohoda mezi vládou ČR a vládou Indonéské republiky o podpoře a ochraně investic</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">13 - Vyslovit souhlas - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349912</guid>
+<title xml:lang="cs-CZ">2 - 2 - 12 - 4 - Smlouva mezi ČR a Bulharskem o zamezení dvojího zdanění</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">12 - Vyslovit souhlas - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349911</guid>
+<title xml:lang="cs-CZ">2 - 2 - 11 - 3 - Dohoda mezi vládou ČR a vládou Mongolska o ochraně investic</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">11 - Vyslovit souhlas - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349910</guid>
+<title xml:lang="cs-CZ">2 - 2 - 10 - zkrácení lhůty před volbou</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">10 - zkrácení lhůty - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349909</guid>
+<title xml:lang="cs-CZ">2 - 2 - 9 - zkrácení lhůty před volbou</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">9 - zkrácení lhůty - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349908</guid>
+<title xml:lang="cs-CZ">2 - 2 - 8 - Návrh na změnu ve složení orgánu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">8 - rezignace - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349907</guid>
+<title xml:lang="cs-CZ">2 - 2 - 7 - zkrácení lhůty před volbou</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">7 - zkrácení lhůty - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349906</guid>
+<title xml:lang="cs-CZ">2 - 2 - 6 - Návrh na změnu zasedacího pořádku v Jednacím sále</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">6 - Zasedací pořádek - zdržel se; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349905</guid>
+<title xml:lang="cs-CZ">2 - 2 - 5 - Návrh na změnu zasedacího pořádku v Jednacím sále</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">5 - Schválit - zdržel se; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349904</guid>
+<title xml:lang="cs-CZ">2 - 2 - 4 - Zpráva MIV</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">4 - Bere na vědomí - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349903</guid>
+<title xml:lang="cs-CZ">2 - 2 - 3 - Návrh pořadu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">3 - Návrh pořadu - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349902</guid>
+<title xml:lang="cs-CZ">2 - 2 - 2 - Návrh pořadu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">2 - Doplnění pořadu - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349901</guid>
+<title xml:lang="cs-CZ">2 - 2 - 1 - Určení ověřovatelů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">1 - Určení ověřovatelů - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 09 Mar 1999 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349900</guid>
+<title xml:lang="cs-CZ">2 - 1 - 36 - </title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">36 - přerušení - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 16 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349899</guid>
+<title xml:lang="cs-CZ">2 - 1 - 35 - Schválení zasedacího pořádku senátorů v Jednacím sále</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">35 - zasedací pořádek - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 16 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349898</guid>
+<title xml:lang="cs-CZ">2 - 1 - 34 - změna návrh US - ODA</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">34 - zasedací pořádek - proti; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Wed, 16 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349897</guid>
+<title xml:lang="cs-CZ">2 - 1 - 33 - </title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">33 - přerušení - proti; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Wed, 16 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349896</guid>
+<title xml:lang="cs-CZ">2 - 1 - 32 - Volba členů stálé delegace PČR do Meziparlamentní unie</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">32 - MPU - zdržel se; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 16 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349895</guid>
+<title xml:lang="cs-CZ">2 - 1 - 31 - Volba členů stálé delegace PČR do Shromáždění Západoevropské unie</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">31 - ZEU - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 16 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349894</guid>
+<title xml:lang="cs-CZ">2 - 1 - 30 - Volba členů stálé delegace PČR do Severoatlantického shromáždění</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">30 - NATO - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 16 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349893</guid>
+<title xml:lang="cs-CZ">2 - 1 - 29 - Volba členů stálé delegace PČR do Parlamentního shromáždění Rady Evropy</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">29 - Rada Evropy - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 16 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349892</guid>
+<title xml:lang="cs-CZ">2 - 1 - 28 - Volba členů stálé delegace PČR do Středoevropské iniciativy</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">28 - SEI - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 16 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349891</guid>
+<title xml:lang="cs-CZ">2 - 1 - 27 - Volba členů stálé delegace PČR pro spolupráci s Evropským parlamentem</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">27 - EP - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 16 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349890</guid>
+<title xml:lang="cs-CZ">2 - 1 - 26 - Volba členů stálé delegace PČR do Parlamentního shromáždění OBSE</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">26 - PS OBSE - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 16 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349889</guid>
+<title xml:lang="cs-CZ">2 - 1 - 25 - změna pořadu schůze - vypuštění bodu "Návrh senátního návrhu zákona, kterým se mění zákon č. 236/1995 Sb. (tisk č. 1998/90)"</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">25 - vypuštění bodu č. 23 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 16 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349888</guid>
+<title xml:lang="cs-CZ">2 - 1 - 24 - 98094 - Návrh zákona, kterým se mění zákon č. 586/1992 Sb., o daních z příjmů, a zákon č. 593/1992 Sb.</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">24 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 16 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349887</guid>
+<title xml:lang="cs-CZ">2 - 1 - 23 - Zkrácení lhůty před konáním voleb členů Stálých delegací PČR</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">23 - zkrácení lhůty - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 16 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349886</guid>
+<title xml:lang="cs-CZ">2 - 1 - 22 - Stanovení počtu členů ve stálých delegacích PČR do meziparlamentních organizací</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">22 - stálé delegace - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 16 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349885</guid>
+<title xml:lang="cs-CZ">2 - 1 - 21 - Zkrácení lhůty pro podání návrhů na předsedy komisí na 30 minut</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">21 - zkrácení lhůty - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 16 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349884</guid>
+<title xml:lang="cs-CZ">2 - 1 - 20 - Ustavení komisí Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">20 - ustavení komisí - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 16 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349883</guid>
+<title xml:lang="cs-CZ">2 - 1 - 19 - Potvrzení volby předsedů výborů Senátu kromě Mandátového a imunitního výboru - přerušení tohoto bodu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">19 - potvrzení předsedů - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 16 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349882</guid>
+<title xml:lang="cs-CZ">2 - 1 - 18 - Ustavení Organizačního výboru</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">18 - ustavení OV - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 16 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349881</guid>
+<title xml:lang="cs-CZ">2 - 1 - 17 - Ustavení výborů Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">17 - ustavení výborů - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 15 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349880</guid>
+<title xml:lang="cs-CZ">2 - 1 - 16 - prodloužení doby pro jednání</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">16 - prodloužení jednání - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 15 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349879</guid>
+<title xml:lang="cs-CZ">2 - 1 - 15 - Zkrácení lhůty pro podání návrhů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">15 - zkrácení lhůty - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 15 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349878</guid>
+<title xml:lang="cs-CZ">2 - 1 - 14 - Stanovení počtu členů výborů Senátu a komisí Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">14 - počet členů - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 15 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349877</guid>
+<title xml:lang="cs-CZ">2 - 1 - 13 - Zřízení výborů Senátu a komisí Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">13 - výbory a komise - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 15 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349876</guid>
+<title xml:lang="cs-CZ">2 - 1 - 12 - Schválení nominace ověřovatelů Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">12 - nominace ověřovatelů - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 15 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349875</guid>
+<title xml:lang="cs-CZ">2 - 1 - 11 - stanovení počtu ověřovatelů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">11 - 13 ověřovatelů - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 15 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349874</guid>
+<title xml:lang="cs-CZ">2 - 1 - 10 - Stanovení počtu místopředsedů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">10 - 4 místopředsedové - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 15 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349873</guid>
+<title xml:lang="cs-CZ">2 - 1 - 9 - Informace předsedy volební komise o ustavení volební komise a o volbě jejích funkcionářů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">9 - bere na vědomí - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 15 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349872</guid>
+<title xml:lang="cs-CZ">2 - 1 - 8 - Stanovení funkčního období orgánů, funkcionářů a delegací Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">8 - funkční období - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 15 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349871</guid>
+<title xml:lang="cs-CZ">2 - 1 - 7 - 98093 - Návrh zákona o vydání státních dluhopisů na úhradu schodku státního rozpočtu za rok 1997</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">7 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 15 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349870</guid>
+<title xml:lang="cs-CZ">2 - 1 - 6 - Zpráva Mandátového a imunitního výboru o výsledku ověření platnosti volby senátorů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">6 - bere na vědomí - proti; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 15 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349869</guid>
+<title xml:lang="cs-CZ">2 - 1 - 5 - Zpráva Mandátového a imunitního výboru o výsledku ověření platnosti volby senátorů</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">5 - bere na vědomí - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 15 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349868</guid>
+<title xml:lang="cs-CZ">2 - 1 - 4 - Zpráva předsedy Senátu o činnosti Senátu v 1. funkčním období</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">4 - bere na vědomí - proti; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 15 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349867</guid>
+<title xml:lang="cs-CZ">2 - 1 - 3 - Schválení pořadu 1. schůze Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">3 - návrh pořadu - proti; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 15 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349866</guid>
+<title xml:lang="cs-CZ">2 - 1 - 2 - Schválení pořadu 1. schůze Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">2 - změna pořadu - pro; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Tue, 15 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349865</guid>
+<title xml:lang="cs-CZ">2 - 1 - 1 - Určení dvou ověřovatelů 1. schůze Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=2&#38;ID=27</link>
+<description xml:lang="cs-CZ">1 - určení ověřovatelů - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 15 Dec 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349864</guid>
+<title xml:lang="cs-CZ">1 - 9807 - 6 - návrh usnesení Senátu k zasedacímu pořádku na 1. schůzi Senátu po pravidelných volbách</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">6 - zasedací pořádek - zdržel se; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Wed, 04 Nov 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349863</guid>
+<title xml:lang="cs-CZ">1 - 9807 - 5 - návrh usnesení Senátu k zasedacímu pořádku na 1. schůzi Senátu po pravidelných volbách</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">5 - zasedací pořádek - zdržel se; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Wed, 04 Nov 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349862</guid>
+<title xml:lang="cs-CZ">1 - 9807 - 4 - 98092 - Návrh zákona o vydání státních dluhopisů k odstranění škod vzniklých v důsledku povodní v roce 1997</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">4 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 04 Nov 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349861</guid>
+<title xml:lang="cs-CZ">1 - 9807 - 3 - 98091 - Návrh zákona o odejmutí dalšího platu za druhé pololetí</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">3 - nezabývat se - proti; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 04 Nov 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349860</guid>
+<title xml:lang="cs-CZ">1 - 9807 - 2 - 7. schůze Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">2 - schválení pořadu - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 04 Nov 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349859</guid>
+<title xml:lang="cs-CZ">1 - 9807 - 1 - 7. schůze Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">1 - ověřovatelé - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Wed, 04 Nov 1998 23:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349858</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 83 - Návrh na doplnění usnesení Senátu č. 59, ve znění usnesení č. 73 k provedení zákona č. 236/1995 Sb.</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">83 - schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349857</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 82 - 98085 - Návrh senátního návrhu zákona, kterým se mění a doplňuje zákon č. 127/1997 Sb.</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">82 - Zamítnout - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349856</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 81 - 98087 - Návrh senátního návrhu zákona o stanovení ceny za výkup elektřiny</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">81 - II. část rozpravy - proti; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349855</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 80 - 98085 - Návrh senátního návrhu zákona, kterým se mění a doplňuje zákon č. 127/1997 Sb.</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">80 - Dodatek - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349854</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 79 - 98085 - Návrh senátního návrhu zákona, kterým se mění a doplňuje zákon č. 127/1997 Sb.</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">79 - Schválit - proti; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349853</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 78 - 98085 - Návrh senátního návrhu zákona, kterým se mění a doplňuje zákon č. 127/1997 Sb.</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">78 - Pozm. návrh 1 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349852</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 77 - 98085 - Návrh senátního návrhu zákona, kterým se mění a doplňuje zákon č. 127/1997 Sb.</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">77 - II. část rozpravy - zdržel se; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349851</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 76 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">76 - Dodatek - zdržel se; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349850</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 75 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">75 - Schválit - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349849</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 74 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">74 - Pozm. návrh 97 - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349848</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 73 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">73 - Pozm. návrh 95 - nepřítomen; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349847</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 72 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">72 - Pozm. návrh 94 - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349846</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 71 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">71 - Pozm. návrh 93 - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349845</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 70 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">70 - Pozm. návrh 91 - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349844</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 69 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">69 - Pozm. návrh 90 - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349843</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 68 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">68 - Pozm. návrh 84 - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349842</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 67 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">67 - Pozm. návrh 83 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349841</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 66 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">66 - Pozm. návrh 80 - zdržel se; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349840</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 65 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">65 - Pozm. návrh 77 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349839</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 64 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">64 - Pozm. návrh 76 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349838</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 63 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">63 - Pozm. návrh 75 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349837</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 62 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">62 - Pozm. návrh 74 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349836</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 61 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">61 - Pozm. návrh 73 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349835</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 60 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">60 - Pozm. návrh 72 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349834</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 59 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">59 - Pozm. návrh 71 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349833</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 58 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">58 - Pozm. návrh 63/B - proti; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349832</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 57 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">57 - Pozm. návrh 63/A - proti; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349831</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 56 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">56 - Pozm. návrh 61 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349830</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 55 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">55 - Pozm. návrh 53/A - zdržel se; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349829</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 54 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">54 - Pozm. návrh 50 - nepřítomen; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349828</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 53 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">53 - Pozm. návrh 48 - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349827</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 52 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">52 - Pozm. návrh 46 - nepřítomen; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349826</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 51 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">51 - Pozm. návrh 45 - nepřítomen; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349825</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 50 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">50 - Pozm. návrh 43 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349824</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 49 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">49 - Pozm. návrh 42 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349823</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 48 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">48 - Pozm. návrh 37/A - proti; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349822</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 47 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">47 - Procedurální návrh - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349821</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 46 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">46 - Pozm. návrh 35/B - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349820</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 45 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">45 - Pozm. návrh 35/A - pro; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349819</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 44 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">44 - Pozm. návrh 34 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349818</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 43 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">43 - Pozm. návrh 33 - proti; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349817</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 42 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">42 - Pozm. návrh 31 - proti; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349816</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 41 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">41 - Pozm. návrh 28 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349815</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 40 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">40 - Pozm. návrh 26 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349814</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 39 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">39 - Pozm. návrh 23 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349813</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 38 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">38 - Pozm. návrh 22 - proti; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349812</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 37 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">37 - Pozm. návrh 21 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349811</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 36 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">36 - Pozm. návrh 20 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349810</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 35 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">35 - Pozm. návrh 18/A - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349809</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 34 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">34 - Pozm. návrh 18/C - zdržel se; Senát odhlasoval: Návrh byl zamítnut</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349808</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 33 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">33 - Pozm. návrh 16/A - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349807</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 32 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">32 - Procedurální návrh - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349806</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 31 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">31 - Pozm. návrh 15 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349805</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 30 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">30 - Pozm. návrh 14 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349804</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 29 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">29 - Pozm. návrh 12 - zdržel se; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349803</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 28 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">28 - Pozm. návrh 10 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349802</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 27 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">27 - Pozm. návrh 9/B - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349801</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 26 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">26 - Pozm. návrh 6 - proti; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349800</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 25 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">25 - Pozm. návrh 5 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349799</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 24 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">24 - Pozm. návrh 3/A - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349798</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 23 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">23 - Technické úpravy - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+<item>
+<guid isPermaLink="false">SENAT_PCR_H1349797</guid>
+<title xml:lang="cs-CZ">1 - 9806 - 22 - 98006 - Návrh senátního návrhu zákona o jednacím řádu Senátu</title>
+<link>https://www.senat.cz/xqw/xervlet/pssenat/hlasa?O=1&#38;ID=27</link>
+<description xml:lang="cs-CZ">22 - Pozm. návrh 1 - pro; Senát odhlasoval: Návrh byl přijat</description>
+<pubDate>Tue, 22 Sep 1998 22:00:00 GMT</pubDate>
+<author>knotekj@senat.cz (Jan Knotek)</author>
+</item>
+
+</channel>
+</rss>
