@@ -1,0 +1,12 @@
+[submodule "data/source"]
+	path = data/source
+	url = https://github.com/kubicek/senat_data.git
+	branch = source
+[submodule "app"]
+	path = app
+	url = https://github.com/kubicek/senat_data.git
+	branch = app
+[submodule "data/export"]
+	path = data/export
+	url = https://github.com/kubicek/senat_data.git
+	branch = export
