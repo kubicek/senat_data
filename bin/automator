@@ -1,0 +1,29 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "senat_data"
+
+SenatData.base_path="data/source"
+
+SenatData::Fetcher::List.fetch Date.parse("2020-10-01")
+
+senators = SenatData::Parser::List.parse
+
+SenatData::Fetcher::RSS.fetch(senators)
+SenatData::Fetcher::Detail.fetch(senators)
+
+# senators = SenatData::Store::fetch_hash("data/export/senators.json")
+senators2 = SenatData::Parser::Detail.parse
+
+senators2.each{|i,s| s.keys.each{|k| senators[i][k]=s[k] }}
+
+SenatData::Store.store("data/export/senators.json", senators)
+
+votes = SenatData::Parser::RSS.parse
+
+SenatData::Store.store("data/export/senator_votes.json", votes, false)
+# votes = SenatData::Store.fetch("data/export/senator_votes.json")
+
+SenatData::Store.store("data/export/votes.json",
+  SenatData::Reducer::Votes.reduce(votes), false
+)
