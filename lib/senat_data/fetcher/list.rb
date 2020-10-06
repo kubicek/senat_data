@@ -10,6 +10,8 @@ module SenatData
       end
 
       def self.last_change
+        fpath = File.expand_path("#{path}/*.html")
+        puts "Searching #{fpath}"
         last = Dir.glob("#{path}/*.html").sort.last
         last_date = Date.parse(File.basename(last, '.html'))
         [last, last_date]
