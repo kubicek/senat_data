@@ -5,7 +5,7 @@ $LOAD_PATH.unshift(File.join(File.dirname(__FILE__),'..','lib'))
 require "bundler/setup"
 require "senat_data"
 
-SenatData.base_path=File.join(File.dirname(__FILE__),'..','..',"data")
+SenatData.base_path=File.join(File.dirname(__FILE__),'..','..',"data","source")
 SenatData::Fetcher::List.fetch #Date.parse('2020-09-30')
 senators = SenatData::Parser::List.parse
 SenatData::Fetcher::RSS.fetch(senators)
