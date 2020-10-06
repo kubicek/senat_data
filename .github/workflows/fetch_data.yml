@@ -13,4 +13,4 @@ jobs:
         with:
           submodules: true
       - run: find .
-      - run: ./app/bin/automator
+      - run: ./app/bin/data_fetcher
