@@ -12,5 +12,6 @@ jobs:
         uses: actions/checkout@v2
         with:
           submodules: true
+          ref: master
       - run: find .
       - run: ./app/bin/data_fetcher
