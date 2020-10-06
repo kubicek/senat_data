@@ -14,7 +14,9 @@ jobs:
           submodules: true
           ref: master
       - run: bundle --version
-      - run: bundle update --bundler
+      - name: Set bundler version
+        run: bundle update --bundler
+        working-directory: app
       - run: bundle --version
       - name: Install dependencies
         run: bundle install
