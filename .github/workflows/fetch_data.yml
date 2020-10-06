@@ -13,6 +13,8 @@ jobs:
         with:
           submodules: true
           ref: master
+      - run: pwd
+      - run: find .
       - name: Install dependencies
         run: bundle install
         working-directory: app
