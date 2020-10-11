@@ -12,10 +12,10 @@ senators2 = SenatData::Parser::Detail.parse
 
 senators2.each{|i,s| s.keys.each{|k| senators[i][k]=s[k] }}
 
-SenatData::Store.store("data/export/senators.json", senators)
+SenatData::Store.store(File.join(SenatData.base_path,"../export/senators.json"), senators)
 
 votes = SenatData::Parser::RSS.parse
 
-SenatData::Store.store("data/export/votes.json",
+SenatData::Store.store(File.join(SenatData.base_path,"../export/votes.json"),
   SenatData::Reducer::Votes.reduce(votes), false
 )
