@@ -1,22 +1,40 @@
-name: learn-github-actions
+name: fetch-and-parse
 on: [push, workflow_dispatch]
 jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
+      # - name: Debug Action
+      #   uses: hmarr/debug-action@v1.0.0
       - name: Set up Ruby 2.6
-        uses: actions/setup-ruby@v1
-        with:
-          ruby-version: 2.6
+        uses: actions/setup-ruby@5f29a1cd8dfebf420691c4c9a0e832e2fae5a526
+        # with:
+        #   ruby-version: 2.6
+      - run: sudo apt-get update
+      - name: Install git
+        run: sudo apt-get install -y git
+      - run: git --version
+      - run: git config --global user.email "jiri.kubicek@kraxnet.cz"
+      - run: git config --global user.name "Jiri Kubicek"
       - name: Checkout code
         uses: actions/checkout@v2
         with:
           submodules: true
           ref: master
-      - run: pwd
-      - run: find .
       - name: Install dependencies
         run: bundle install
         working-directory: app
       - run: ./bin/data_fetcher
         working-directory: app
+      - run: git commit -am "Fetched new source data"
+        working-directory: ./data/source
+      - run: git push origin HEAD:source
+        working-directory: ./data/source
+      - run: ./bin/data_parser
+        working-directory: app
+      - run: git commit -am "Generated new data export"
+        working-directory: ./data/export
+      - run: git push origin HEAD:export
+        working-directory: ./data/export
+      - run: git commit -am "Batch run"
+      - run: git push origin master
