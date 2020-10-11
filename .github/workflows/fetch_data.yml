@@ -16,6 +16,7 @@ jobs:
       - run: git --version
       - run: git config --global user.email "jiri.kubicek@kraxnet.cz"
       - run: git config --global user.name "Jiri Kubicek"
+      - run: git config --global core.autocrlf input
       - name: Checkout code
         uses: actions/checkout@v2
         with:
@@ -25,7 +26,7 @@ jobs:
       - name: Install dependencies
         run: bundle install
         working-directory: app
-      - run: ./bin/data_fetcher
+      - run: ./bin/data_fetcher 2020-10-01
         working-directory: app
       - run: git commit -am "Fetched new source data"
         working-directory: ./data/source
